@@ -63,7 +63,7 @@ The trained model predicts the **expected selling price of the phone**.
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️Technologies Used
 
 - Python  
 - Pandas  
